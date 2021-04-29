@@ -19,7 +19,6 @@ sections:
 - type: document
   path: sidebars.json
   label: Sidebar
-  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
